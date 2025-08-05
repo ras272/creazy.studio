@@ -64,8 +64,8 @@ export default function HeroSection() {
               transition={{ delay: 0.6, duration: 0.8 }}
               className="text-xl lg:text-2xl text-black/80 font-bricolage max-w-2xl mx-auto leading-relaxed"
             >
-              Diseño web y de apps para startups <br />
-              que quieren destacar del resto.
+              Agencia de desarrollo web y marketing digital en Paraguay. <br />
+              Creamos sitios web, apps móviles y estrategias digitales para empresas y startups.
             </motion.p>
 
             {/* CTA Button */}
@@ -83,7 +83,7 @@ export default function HeroSection() {
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-4 bg-black text-white font-bricolage font-bold text-lg rounded-full hover:bg-gray-800 transition-all duration-300 shadow-lg"
               >
-                Book a Call
+                Trabajemos Juntos
               </motion.button>
             </motion.div>
           </motion.div>

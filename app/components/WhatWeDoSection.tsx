@@ -7,33 +7,33 @@ import ContactModal from './ContactModal'
 
 const services = [
   {
-    title: 'Diseño Web & Apps',
-    description: 'Sitios web modernos y aplicaciones móviles que convierten visitantes en clientes.',
-    features: ['Responsive Design', 'UX/UI Optimizado', 'Performance'],
+    title: 'Desarrollo Web',
+    description: 'Sitios web modernos y aplicaciones que convierten visitantes en clientes. Desarrollo profesional con tecnologías de vanguardia.',
+    features: ['Páginas Web Responsivas', 'E-commerce', 'SEO Optimizado'],
     gradient: 'from-purple-500 to-pink-500',
     icon: '🎨',
     bgPattern: 'dots'
   },
   {
-    title: 'Branding & Identidad',
-    description: 'Creamos marcas memorables que destacan en un mercado saturado.',
-    features: ['Logo Design', 'Identidad Visual', 'Brand Guidelines'],
+    title: 'Marketing Digital',
+    description: 'Estrategias de marketing digital y gestión de redes sociales. Posicionamiento web y publicidad digital que genera resultados.',
+    features: ['Redes Sociales', 'Google Ads', 'SEO Local'],
     gradient: 'from-cyan-500 to-blue-500',
     icon: '⚡',
     bgPattern: 'grid'
   },
   {
-    title: 'Desarrollo Frontend',
-    description: 'Código limpio y moderno con las últimas tecnologías del mercado.',
-    features: ['React/Next.js', 'Animaciones', 'SEO Optimizado'],
+    title: 'Apps Móviles',
+    description: 'Desarrollo de aplicaciones móviles nativas e híbridas para Android e iOS. Soluciones móviles innovadoras y funcionales.',
+    features: ['Apps Android/iOS', 'Apps Híbridas', 'Mantenimiento'],
     gradient: 'from-green-500 to-teal-500',
     icon: '💻',
     bgPattern: 'waves'
   },
   {
-    title: 'Experiencias Digitales',
-    description: 'Prototipos interactivos y consultoría UX para productos digitales.',
-    features: ['Prototipos', 'Design Systems', 'Consultoría UX'],
+    title: 'Branding & Diseño',
+    description: 'Diseño de marca, identidad visual y branding memorable. Creamos marcas que conectan emocionalmente con tu audiencia.',
+    features: ['Logo Design', 'Identidad Visual', 'Material Publicitario'],
     gradient: 'from-orange-500 to-red-500',
     icon: '🚀',
     bgPattern: 'circles'
